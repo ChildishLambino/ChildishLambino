@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChildishLambino
+- 👀 I’m interested in game design and learning more from Game Engines like Unity to help bring my ideas to life.
+- 🌱 I’m currently learning how to efficiently use Unity which involves dabbling into everything from programming to art and design.
+- 💞️ I’m looking to collaborate on a fun variety of games where I can learn as much as possible!
+- 📫 How to reach me Twitter: @Deagle_GamesUK
